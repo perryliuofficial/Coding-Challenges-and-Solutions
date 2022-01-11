@@ -1,0 +1,1 @@
+# CodeWars-6-kyu-Find-The-Parity-Outlier
